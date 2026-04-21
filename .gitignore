@@ -3,6 +3,7 @@ __pycache__/
 *.pyo
 .codex
 .codex_memory.md
+memory.md
 
 # Local one-off outputs
 *.smi
