@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.codex
+.codex_memory.md
+
+# Local one-off outputs
+*.smi
+*.txt

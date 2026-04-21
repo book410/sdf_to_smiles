@@ -1,0 +1,21 @@
+cid	title	sdf_path	pubchem_smiles	converted_smiles	raw_match	normalized_pubchem	normalized_converted	normalized_match
+702	Ethanol	/home/zsx/smiles/pubchem_test_data/702_ethanol.sdf	CCO	CCO	True	CCO	CCO	True
+176	Acetic Acid	/home/zsx/smiles/pubchem_test_data/176_acetic_acid.sdf	CC(=O)O	CC(=O)O	True	CC(=O)O	CC(=O)O	True
+241	Benzene	/home/zsx/smiles/pubchem_test_data/241_benzene.sdf	C1=CC=CC=C1	c1ccccc1	False	c1ccccc1	c1ccccc1	True
+1140	Toluene	/home/zsx/smiles/pubchem_test_data/1140_toluene.sdf	CC1=CC=CC=C1	Cc1ccccc1	False	Cc1ccccc1	Cc1ccccc1	True
+8078	Cyclohexane	/home/zsx/smiles/pubchem_test_data/8078_cyclohexane.sdf	C1CCCCC1	C1CCCCC1	True	C1CCCCC1	C1CCCCC1	True
+996	Phenol	/home/zsx/smiles/pubchem_test_data/996_phenol.sdf	C1=CC=C(C=C1)O	Oc1ccccc1	False	Oc1ccccc1	Oc1ccccc1	True
+240	Benzaldehyde	/home/zsx/smiles/pubchem_test_data/240_benzaldehyde.sdf	C1=CC=C(C=C1)C=O	O=Cc1ccccc1	False	O=Cc1ccccc1	O=Cc1ccccc1	True
+243	Benzoic Acid	/home/zsx/smiles/pubchem_test_data/243_benzoic_acid.sdf	C1=CC=C(C=C1)C(=O)O	O=C(O)c1ccccc1	False	O=C(O)c1ccccc1	O=C(O)c1ccccc1	True
+750	Glycine	/home/zsx/smiles/pubchem_test_data/750_glycine.sdf	C(C(=O)O)N	NCC(=O)O	False	NCC(=O)O	NCC(=O)O	True
+5950	L-Alanine	/home/zsx/smiles/pubchem_test_data/5950_l_alanine.sdf	C[C@@H](C(=O)O)N	C[C@H](N)C(=O)O	False	C[C@H](N)C(=O)O	C[C@H](N)C(=O)O	True
+612	Lactic Acid	/home/zsx/smiles/pubchem_test_data/612_lactic_acid.sdf	CC(C(=O)O)O	CC(O)C(=O)O	False	CC(O)C(=O)O	CC(O)C(=O)O	True
+5793	D-Glucose	/home/zsx/smiles/pubchem_test_data/5793_d_glucose.sdf	C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O	OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O	False	OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O	OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O	True
+2244	Aspirin	/home/zsx/smiles/pubchem_test_data/2244_aspirin.sdf	CC(=O)OC1=CC=CC=C1C(=O)O	CC(=O)Oc1ccccc1C(=O)O	False	CC(=O)Oc1ccccc1C(=O)O	CC(=O)Oc1ccccc1C(=O)O	True
+1983	Acetaminophen	/home/zsx/smiles/pubchem_test_data/1983_acetaminophen.sdf	CC(=O)NC1=CC=C(C=C1)O	CC(=O)Nc1ccc(O)cc1	False	CC(=O)Nc1ccc(O)cc1	CC(=O)Nc1ccc(O)cc1	True
+2519	Caffeine	/home/zsx/smiles/pubchem_test_data/2519_caffeine.sdf	CN1C=NC2=C1C(=O)N(C(=O)N2C)C	Cn1c(=O)c2c(ncn2C)n(C)c1=O	False	Cn1c(=O)c2c(ncn2C)n(C)c1=O	Cn1c(=O)c2c(ncn2C)n(C)c1=O	True
+3672	Ibuprofen, (+-)-	/home/zsx/smiles/pubchem_test_data/3672_ibuprofen.sdf	CC(C)CC1=CC=C(C=C1)C(C)C(=O)O	CC(C)Cc1ccc(C(C)C(=O)O)cc1	False	CC(C)Cc1ccc(C(C)C(=O)O)cc1	CC(C)Cc1ccc(C(C)C(=O)O)cc1	True
+5329	Sulfamethoxazole	/home/zsx/smiles/pubchem_test_data/5329_sulfamethoxazole.sdf	CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1	False	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1	True
+5997	Cholesterol	/home/zsx/smiles/pubchem_test_data/5997_cholesterol.sdf	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	False	CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	True
+33613	Amoxicillin	/home/zsx/smiles/pubchem_test_data/33613_amoxicillin.sdf	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C	CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)O	False	CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)O	CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)O	True
+60823	Atorvastatin	/home/zsx/smiles/pubchem_test_data/60823_atorvastatin.sdf	CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4	CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O	False	CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O	CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O	True
